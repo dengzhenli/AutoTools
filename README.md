@@ -5,6 +5,7 @@
 ![Codacy grade](https://img.shields.io/codacy/grade/3dce672ecf2c4dbb909e005f8f22cfda)
 # RobotHelper
 
+fork 自 https://github.com/Jinnrry/RobotHelper ，进行二次改造
 ## 这是做什么的？
 
 一个安卓自动化脚本的框架。包含了自动化辅助开发常用的点击，找点，文字识别等功能。具体开发说明参见
